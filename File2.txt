@@ -1,0 +1,4 @@
+this is created from the Visual studio code and it is cloned to the git using the below commands
+git clone path_of_the_file- used to clone the git repository to your local machine
+git commit -m "message"- used to commit the changes done in the local machine
+git push origin main - changes are added to the git repository
